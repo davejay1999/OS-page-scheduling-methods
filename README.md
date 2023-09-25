@@ -1,5 +1,5 @@
 # OS-page-scheduling-methods
-This as an assignment work in Operating System course.It is an implementation of scheduing methods for pages like First come First serve,shortest job first and round robin scheduling.
+This is an assignment work in the Operating System course. It implements scheduling methods for pages like First come First serve, shortest job first and round-robin scheduling.
 
 
 
@@ -17,7 +17,7 @@ Usage: sched input_file [FCFS|RR|SJF] [time_quantum]
 *************README***************
 
 
-Functions brief discriptions
+Functions brief descriptions
 
 
 
